@@ -15,4 +15,4 @@ python3 labelImg.py
 python3 labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
 ```
 
-![imagename](https://drive.google.com/file/d/1ZuSzF5W_w0_pUrvH1JQurtUse1FSSYNK/view?usp=sharing)
+![Annotation](https://drive.google.com/file/d/1ZuSzF5W_w0_pUrvH1JQurtUse1FSSYNK/view?usp=sharing)
