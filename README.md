@@ -7,9 +7,12 @@ I used Kaggle to download a dataset. After downloading this dataset, I used a gr
 
 ### Installation
 
+For MacOs:
 ```
-pip3 install labelImg
-labelImg
-labelImg [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
+pip3 install pyqt5 lxml 
+make qt5py3
+python3 labelImg.py
+python3 labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
 ```
 
+![imagename](https://drive.google.com/file/d/1ZuSzF5W_w0_pUrvH1JQurtUse1FSSYNK/view?usp=sharing)
