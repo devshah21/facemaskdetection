@@ -7,8 +7,8 @@ I used Kaggle to download a dataset. After downloading this dataset, I used a gr
 
 ### Installation
 
-''' pip3 install labelImg
+```pip3 install labelImg
 labelImg
 labelImg [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
-'''
+```
 
